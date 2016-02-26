@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ESPACIO BRUTO]]></title>
-        <description><![CDATA[ESPACIO BRUTO]]></description>
+        <title><![CDATA[PLATAFORMA CREATIVA]]></title>
+        <description><![CDATA[PLATAFORMA CREATIVA]]></description>
         <link>https://thegrid.ai/espacio-bruto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 21:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 21:23:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/espacio-bruto/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Alexis Acuña _ Profesor Espiritu Emprendedor Arquitectura 2014]]></title>
-            <description><![CDATA[<article><h1>Alexis Acuña _ Profesor Espiritu Emprendedor Arquitectura 2014</h1><p>Les presentamos a Alexis Acuña, miembro fundador de ESPACIO BRUTO, Docente de la Escuela de Arquitectura de la Universidad Mayor y destacado Artista Visual de la Región.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Alexis Acuña _ Profesor Espiritu Emprendedor Arquitectura 2014</h1><p>Les presentamos a Alexis Acuña, miembro fundador de ESPACIO BRUTO, Docente de la Escuela de Arquitectura de la Universidad Mayor y destacado Artista Visual de la Región.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e058464-dc88-44c8-a4f1-a27d1179d3e5.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=SVDKdLTu804</link>
             <guid isPermaLink="false">9aa65589-5b3c-4512-8107-f9b98267b366</guid>
-            <pubDate>Thu, 25 Feb 2016 21:13:34 GMT</pubDate>
+            <pubDate>Thu, 25 Feb 2016 21:21:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

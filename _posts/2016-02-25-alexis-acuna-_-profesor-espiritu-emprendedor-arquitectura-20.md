@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://youtu.be/SVDKdLTu804'
-datePublished: '2016-02-25T21:37:03.917Z'
-dateModified: '2016-02-25T21:36:49.324Z'
+datePublished: '2016-02-25T21:44:33.104Z'
+dateModified: '2016-02-25T21:37:23.684Z'
 author: []
 title: Alexis Acuña _ Profesor Espiritu Emprendedor Arquitectura 2014
 sourcePath: _posts/2016-02-25-alexis-acuna-_-profesor-espiritu-emprendedor-arquitectura-20.md

@@ -1,29 +1,41 @@
-name: ESPACIO BRUTO
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.650453879730776
-title: PLATAFORMA CREATIVA
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 1
+title: PLATAFORMA CREATIVA
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.0625
+  brandStrength: 0.897386368131265
+  rhythmicContrast: 0.7932777460664511
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.897386368131265
   lightness: 0
-  saturation: 0.0625
-  rhythmicContrast: 0.7932777460664511
 purpose: []
+favicon: null
+name: ESPACIO BRUTO
+typography_spectrum: 0.650453879730776

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ESPACIO BRUTO]]></title>
+        <description><![CDATA[ESPACIO BRUTO]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 25 Feb 2016 20:50:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ALEXIS ACUÑA, MIEMBRO FUNDADOR DE ESPACIO BRUTO, PROFESOR ESPÍRITU EMPRENDEDOR ARQUITECTURA 2014]]></title>
+            <description><![CDATA[<article><h1>ALEXIS ACUÑA, MIEMBRO FUNDADOR DE ESPACIO BRUTO, PROFESOR ESPÍRITU EMPRENDEDOR ARQUITECTURA 2014</h1><p>Les presentamos a Alexis Acuña, miembro fundador de ESPACIO BRUTO, docente de la Escuela de Arquitectura de la Universidad Mayor, Artista Visual y destacado Arquitecto regional.</p></article>]]></description>
+            <link>undefinedalexis-acuna-miembro-fundador-de-espacio-bruto-profesor-es/index.html</link>
+            <guid isPermaLink="false">d6fb27b1-0701-4aed-aa37-44e594b4fc87</guid>
+            <pubDate>Thu, 25 Feb 2016 20:49:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

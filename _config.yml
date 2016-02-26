@@ -1,6 +1,6 @@
 name: ESPACIO BRUTO
 favicon: null
-layout_spectrum: 0.6965321996249259
+layout_spectrum: 0.26563
 typography_spectrum: 0.650453879730776
 title: PLATAFORMA CREATIVA
 cta:
@@ -23,7 +23,7 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
   brandStrength: 0.897386368131265
-  lightness: 0.09094828576780856
-  saturation: 0.04038614104501903
+  lightness: 0
+  saturation: 0.0625
   rhythmicContrast: 0.7932777460664511
 purpose: []
